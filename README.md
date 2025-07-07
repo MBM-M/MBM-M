@@ -10,3 +10,7 @@
 - Debugged a single Rails migration for days upon days upon days upon days upon ...(you get it now), and FINALLY achieved cloud nine.
 - Achieved inner peace while tracing a missing semicolon for 45 minutes.
 - Developed sixth sense for Googling exactly the right keywords. Can now find that one obscure forum post from 2013 with surgical precision.
+
+## Currently Learning
+- Algorithmic algorithms
+- How to escape combo simulator on tekken
