@@ -13,4 +13,4 @@
 
 ## Currently Learning
 - Algorithmic algorithms
-- How to escape combo simulator on tekken
+- How to escape tekken combo simulator
