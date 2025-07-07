@@ -1,6 +1,6 @@
 # My "Experience" 📖
 
-** The Odin Project 📜 **
+### The Odin Project 📜
 - Conquered HTML, CSS,(can center a div) and JavaScript with the fury of a caffeinated Norse god. Single-handedly wrestled the DOM into submission using only raw loops and sheer willpower.
 - Constructed full-stack Ruby on Rails applications so robust they brought tears to the eyes of senior engineers (or so I imagined while debugging at 3 a.m.).
 - Debugged code like a mythological hero battles hydras—cut off one error, and two more appeared. Still emerged victorious thanks to Stack Overflow and emotional fortitude :)
