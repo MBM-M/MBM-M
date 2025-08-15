@@ -19,8 +19,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="sql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=websocket" height="60" alt="websocket logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=webpack" height="60" alt="webpack logo" />
 </div>
 
